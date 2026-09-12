@@ -1,5 +1,2 @@
-nada magdy
+nada  magdy ..
 swe
-programming 
-nada
-hellooooo
